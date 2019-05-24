@@ -1,6 +1,6 @@
 {
   "name": "diagram-js-cursor-debug",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "diagram-js extension which shows current local point on canvas",
   "main": "index.js",
   "scripts": {
